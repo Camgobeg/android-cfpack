@@ -1,0 +1,1 @@
+sudo pkill run_cvd

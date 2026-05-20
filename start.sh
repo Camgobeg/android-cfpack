@@ -1,0 +1,1 @@
+HOME=$PWD ./bin/launch_cvd --vm_manager=crosvm --cpus=4 --memory_mb=6000 --gpu_mode=gfxstream --enable_kernel_log=true --data_image=/media/camgobeg/CF/data/userdata.img --super_image=/media/camgobeg/CF/data/super.img --display=width=720,height=1650,refresh_rate_hz=60
